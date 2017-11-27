@@ -39,7 +39,7 @@ In our previous assignments, you have created JavaScript programs to solve probl
 | Kaelin    | Johnny    | MEAN stack     | Wed/8:40 |
 | Will      | Elizabeth | Django  | Mon/8:50 |
 | Justin    | Andrew C. | MERN stack     | Wed/ 9:00 |
-| Courtney  |           | D3.js          | Mon/8:40 |
+| Courtney  |           | D3.js          | |
 | Andrew S. | George    | Node.js        | Wed/ 9:10 |
 | Thursanth |           | Angular.js     | |
 | Zach D.   | Thomas    | Best Practices | Wed/8:50 |
