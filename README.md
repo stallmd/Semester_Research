@@ -40,11 +40,11 @@ In our previous assignments, you have created JavaScript programs to solve probl
 | Will      | Elizabeth | Django  | Mon/8:50 |
 | Justin    | Andrew C. | MERN stack     | Wed/ 9:00 |
 | Courtney  |           | D3.js          | |
-| Andrew S. | George    | Node.js        | Wed/ 9:10 |
+| Andrew S. | George    | Node.js        | Mon/ 9:00 |
 | Thursanth |           | Angular.js     | |
 | Zach D.   | Thomas    | Best Practices | Wed/8:50 |
 | Christopher| Luke  |   | |
 | Mackenzie | James | Bootstrap | Wed/9:10|
 | Omari | Jarrell | jQuery/jQueryUI | Mon/9:10 |
-| Zach R | Alexander | Janus VR | Wed/8:40|
-| Robert | Rob | HTML Canvas | WEd/8:50 |
+| Zach R | Alexander | Janus VR | Fri/8:40|
+| Robert | Rob | HTML Canvas | Fri/8:50 |
