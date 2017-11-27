@@ -43,7 +43,7 @@ In our previous assignments, you have created JavaScript programs to solve probl
 | Andrew S. | George    | Node.js        | Mon/ 9:00 |
 | Thursanth |           | Angular.js     | |
 | Zach D.   | Thomas    | Best Practices | Wed/8:50 |
-| Christopher| Luke  |   | |
+| Christopher| Luke  |  D3.js | Mon/ 8:40 |
 | Mackenzie | James | Bootstrap | Wed/9:10|
 | Omari | Jarrell | jQuery/jQueryUI | Mon/9:10 |
 | Zach R | Alexander | Janus VR | Fri/8:40|
