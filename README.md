@@ -1,3 +1,7 @@
+#Mackenzie Stall and James Blackwell Presentation
+https://docs.google.com/presentation/d/19mIoKi9Duv9FARyGQ633ahXsBGi6RyDapoRyvo7-QYs/edit
+
+
 # Semester_Research
 
 In our previous assignments, you have created JavaScript programs to solve problems using the programming lessons throughout the semester. For this next project, a group research and presentation assignment, you will be working with one other student to further investigate advanced topics in programming for the web and present your findings to the class in form of a slideshow presentation with code examples.
